@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Client/PizzaBox.Client.csproj": {}
+  },
+  "projects": {
+    "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Client/PizzaBox.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Client/PizzaBox.Client.csproj",
+        "projectName": "PizzaBox.Client",
+        "projectPath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Client/PizzaBox.Client.csproj",
+        "packagesPath": "/home/abolude/.nuget/packages/",
+        "outputPath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abolude/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Domain/PizzaBox.Domain.csproj": {
+                "projectPath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Domain/PizzaBox.Domain.csproj"
+              },
+              "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/PizzaBox.Storing.csproj": {
+                "projectPath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/PizzaBox.Storing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "microsoft.entityframeworkcore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Domain/PizzaBox.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Domain/PizzaBox.Domain.csproj",
+        "projectName": "PizzaBox.Domain",
+        "projectPath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Domain/PizzaBox.Domain.csproj",
+        "packagesPath": "/home/abolude/.nuget/packages/",
+        "outputPath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abolude/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/PizzaBox.Storing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/PizzaBox.Storing.csproj",
+        "projectName": "PizzaBox.Storing",
+        "projectPath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/PizzaBox.Storing.csproj",
+        "packagesPath": "/home/abolude/.nuget/packages/",
+        "outputPath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abolude/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Domain/PizzaBox.Domain.csproj": {
+                "projectPath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Domain/PizzaBox.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "microsoft.entityframeworkcore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/bin/Debug/netstandard2.0/PizzaBox.Testing.deps.json
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/bin/Debug/netstandard2.0/PizzaBox.Testing.dll
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/bin/Debug/netstandard2.0/PizzaBox.Testing.pdb
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/obj/Debug/netstandard2.0/PizzaBox.Testing.csprojAssemblyReference.cache
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/obj/Debug/netstandard2.0/PizzaBox.Testing.AssemblyInfoInputs.cache
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/obj/Debug/netstandard2.0/PizzaBox.Testing.AssemblyInfo.cs
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/obj/Debug/netstandard2.0/PizzaBox.Testing.csproj.CoreCompileInputs.cache
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/obj/Debug/netstandard2.0/PizzaBox.Testing.dll
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/obj/Debug/netstandard2.0/PizzaBox.Testing.pdb

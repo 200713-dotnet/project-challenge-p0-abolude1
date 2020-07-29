@@ -1,0 +1,12 @@
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Storing.deps.json
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Storing.dll
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Storing.pdb
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Domain.dll
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/bin/Debug/netstandard2.0/PizzaBox.Domain.pdb
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.csprojAssemblyReference.cache
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.AssemblyInfoInputs.cache
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.AssemblyInfo.cs
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.csproj.CoreCompileInputs.cache
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.csproj.CopyComplete
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.dll
+/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Storing/obj/Debug/netstandard2.0/PizzaBox.Storing.pdb

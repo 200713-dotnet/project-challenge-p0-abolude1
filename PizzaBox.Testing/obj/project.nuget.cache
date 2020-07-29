@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PbIx0yIGVGv2cvHhzrG28TvMoQq5DIEJltwlwMQngCaJy5HDh968ByAjK3r9S17mUhImAKsbDqcziu8He7yY9w==",
+  "success": true,
+  "projectFilePath": "/home/abolude/2007_13_dotnet/ProjectChallenges/project-challenge-p0-abolude1/PizzaBox.Testing/PizzaBox.Testing.csproj",
+  "expectedPackageFiles": [
+    "/home/abolude/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/abolude/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

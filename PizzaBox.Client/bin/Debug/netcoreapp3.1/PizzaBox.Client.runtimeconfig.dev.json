@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/abolude/.dotnet/store/|arch|/|tfm|",
+      "/home/abolude/.nuget/packages"
+    ]
+  }
+}
